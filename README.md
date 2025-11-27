@@ -1,4 +1,12 @@
 # Metro Bank Challenge – Week 2: Branch Performance & Efficiency
+## Table Of Content
+- [Project Overview](#projectoverview)
+- [Problem Statement](#problemstatement)
+- [Process](#process)
+- [Tools Used](#toolsused)
+- [Key Insights](#keyinsights)
+- [Recommendation](#recommendation)
+- [Conclusion](#conclusion)
 ### Project Overview
 Week 2 of the Metro Bank Analytics Challenge focused on analyzing branch performance and efficiency. As a financial analyst, my task was to evaluate branch profitability, efficiency, and cost management to help the COO make strategic investment and operational decisions. Using the Branches.csv dataset, I created an Excel report with calculated metrics, PivotTables, Pivot Charts, and a dashboard summarizing branch performance.
 ### Problem Statement
