@@ -29,7 +29,7 @@ The goal of this analysis is to identify which Metro Bank branches drive the mos
 5. Dashboard Creation
 - Assembled the key charts and metrics into a one-page dashboard for a clear, decision-ready overview.
 ### Key Insights
-<img width="2424" height="1326" alt="image" src="https://github.com/user-attachments/assets/c96e27f7-b0b4-4222-9bf9-9a835c451e39" />
+<img width="1551" height="848" alt="image" src="https://github.com/user-attachments/assets/ef75fe55-86e3-43a8-af83-9e8120dde34b" />
 
 - Metro Bank generated a total profit of $38.25M across all branches.
 - BR012 emerged as the top-performing branch, delivering the highest overall profit.
