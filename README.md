@@ -1,4 +1,4 @@
-# Metro Bank Challenge – Week 2: Branch Performance & Efficiency
+# Metro Bank Challenge – Branch Performance & Efficiency
 ## Table Of Content
 - [Project Overview](#projectoverview)
 - [Problem Statement](#problemstatement)
@@ -29,6 +29,8 @@ The goal of this analysis is to identify which Metro Bank branches drive the mos
 5. Dashboard Creation
 - Assembled the key charts and metrics into a one-page dashboard for a clear, decision-ready overview.
 ### Key Insights
+<img width="1937" height="1153" alt="image" src="https://github.com/user-attachments/assets/72cf56d8-09c8-466d-9064-1009b980a406" />
+
 - Metro Bank generated a total profit of $38.25M across all branches.
 - BR012 emerged as the top-performing branch, delivering the highest overall profit.
 - The branch with the highest revenue per employee achieved $198,379, highlighting strong efficiency.
